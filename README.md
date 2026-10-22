@@ -18,7 +18,7 @@ I'm an IT Engineering student (Bachelor ASRBD) passionate about **infrastructure
 
 ### 🛠️ My Tech Arsenal
 
-**Infrastructure, Cloud & Security**
+#### 🛡️ Infrastructure, Cloud & Security
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
@@ -26,7 +26,7 @@ I'm an IT Engineering student (Bachelor ASRBD) passionate about **infrastructure
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-1F222E?style=for-the-badge&logo=security&logoColor=white)
 
-**Development & Tooling**
+#### 💻 Development & Tooling
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
